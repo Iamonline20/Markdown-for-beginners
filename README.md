@@ -40,6 +40,10 @@ It should look like this:
 
 To make markdown ignore certain elements like \# you add a ```'\'``` before it.
 
+To make unordered lists you add a ```-``` before the letters.
+
 **Want to make a readme.md for your profile? Here are some things that will help you.**
+
+
 
 
