@@ -44,6 +44,11 @@ To make unordered lists you add a ```-``` before the letters.
 
 **Want to make a readme.md for your profile? Here are some things that will help you.**
 
+- [GitHub streaks](https://streak-stats.demolab.com/demo/)
+
+- [Markdown badges](https://github.com/Ileriayo/markdown-badges)
+
+-[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 
 
