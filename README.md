@@ -63,6 +63,12 @@ To add codeblocks to your markdown file you add three \``` on both sides of your
 '''
 ```
 
+To ~~strike~~ text you add two \~~ before the word/sentence
+
+```markdown
+~~this is a sentence~~
+```
+
 **Want to make a readme.md for your profile? Here are some things that will help you.**
 
 - [GitHub streaks](https://streak-stats.demolab.com/demo/)
