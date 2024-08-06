@@ -55,7 +55,7 @@ To make your text italic you add one asterisk on both sides of the sentence/word
  *This text is italic
 ```
 
-To add codeblocks to your markdown file you add three \``` on both sides of your code and write whatever language you want to show on the first set of \```
+To add codeblocks to your markdown file you add three \``` on both sides of your code and write whatever language you want to display on the first set of \```
 
 ```markup
 ```html
