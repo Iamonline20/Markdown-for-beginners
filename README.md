@@ -48,7 +48,7 @@ To make unordered lists you add a ```-``` before the letters.
 
 - [Markdown badges](https://github.com/Ileriayo/markdown-badges)
 
--[GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 
 
 
