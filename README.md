@@ -37,3 +37,5 @@ To add an image:
 It should look like this:
 
 ![alt text](https://i.imgur.com/nKnrEjR.jpeg)
+
+To make markdown ignore certain elements like \# you add a \'\' before it.
