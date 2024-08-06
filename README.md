@@ -50,5 +50,6 @@ To make unordered lists you add a ```-``` before the letters.
 
 - [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 
+- [GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
 
