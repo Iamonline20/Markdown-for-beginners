@@ -42,6 +42,29 @@ To make markdown ignore certain elements like \# you add a ```'\'``` before it.
 
 To make unordered lists you add a ```-``` before the letters.
 
+To make your text bold you add two asterisks on both sides of the sentence/word.
+
+```markdown
+ ex:
+ **This text is bold**
+```
+
+To make your text italic you add one asterisk on both sides of the sentence/word.
+
+```markup
+ *This text is italic
+```
+
+To add codeblocks to your markdown file you add three \``` on both sides of your code and write whatever language you want to show on the first set of \```
+
+```markup
+```html
+<h1>This is a sentence</h1>
+```
+```
+
+
+
 **Want to make a readme.md for your profile? Here are some things that will help you.**
 
 - [GitHub streaks](https://streak-stats.demolab.com/demo/)
