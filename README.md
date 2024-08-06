@@ -21,6 +21,11 @@ To make it smaller you add multiple hashtags before the sentence.
   ##### This is a heading
   ###### This is a heading
 ```
+To add a link to another website you type
 
+```markdown
+ [write-anything-here](https://youtube.com/)
+```
+It should look [like this](https://youtube.com/).
 
 
