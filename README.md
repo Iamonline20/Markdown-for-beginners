@@ -38,4 +38,8 @@ It should look like this:
 
 ![alt text](https://i.imgur.com/nKnrEjR.jpeg)
 
-To make markdown ignore certain elements like \# you add a \'\' before it.
+To make markdown ignore certain elements like \# you add a ```'\'``` before it.
+
+**Want to make a readme.md for your profile? Here are some things that will help you.**
+
+
