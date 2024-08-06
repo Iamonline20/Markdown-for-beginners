@@ -34,4 +34,6 @@ To add an image:
  ![alt text](https://i.imgur.com/nKnrEjR.jpeg)
 ```
 
+It should look like this:
+
 ![alt text](https://i.imgur.com/nKnrEjR.jpeg)
