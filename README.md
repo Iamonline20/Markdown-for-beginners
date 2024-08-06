@@ -28,4 +28,10 @@ To add a link to another website you type
 ```
 It should look [like this](https://youtube.com/).
 
+To add an image:
 
+```markdown
+ ![alt text](https://i.imgur.com/nKnrEjR.jpeg)
+```
+
+![alt text](https://i.imgur.com/nKnrEjR.jpeg)
