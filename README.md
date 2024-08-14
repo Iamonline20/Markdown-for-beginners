@@ -69,6 +69,10 @@ To ~~strike~~ text you add two \~~ before the word/sentence
 ~~this is a sentence~~
 ```
 
+To display codeblocks to add a \> before the sentence
+
+> This is a blockquote
+
 **Want to make a readme.md for your profile? Here are some things that will help you.**
 
 - [GitHub streaks](https://streak-stats.demolab.com/demo/)
